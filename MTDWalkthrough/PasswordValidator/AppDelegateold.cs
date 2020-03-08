@@ -68,6 +68,7 @@ namespace MTDWalkthrough
 				//_nav.PushViewController (_elementVC, true);
 			};
 
+
 			_window.RootViewController = _nav;
 			_window.MakeKeyAndVisible ();
 
